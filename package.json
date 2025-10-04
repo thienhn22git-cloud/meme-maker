@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://thienhn22git-cloud.github.io/meme-maker",
+  "homepage": "https://thienhn22git-cloud.github.io/meme-maker/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
